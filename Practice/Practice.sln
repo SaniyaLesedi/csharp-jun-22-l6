@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borodina.06.Task1", "Borodina.06.Task1\Borodina.06.Task1.csproj", "{CCA20CE7-7CDA-4CBD-BCFD-9D6106156F7D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA20CE7-7CDA-4CBD-BCFD-9D6106156F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA20CE7-7CDA-4CBD-BCFD-9D6106156F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA20CE7-7CDA-4CBD-BCFD-9D6106156F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA20CE7-7CDA-4CBD-BCFD-9D6106156F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
